@@ -1,10 +1,10 @@
-# williamsigal.com
+# nathanielsigal.com
 
-Version history of [williamsigal.com](https://williamsigal.com) - hosted on AWS S3 and CloudFront
+Version history of [nathanielsigal.com](https://nathanielsigal.com) - hosted on AWS S3 and CloudFront
 
 ## Build Status
 
-![Push to S3 and Invalidate CloudFront](https://github.com/lucascantor/williamsigal.com/workflows/Push%20to%20S3%20and%20Invalidate%20CloudFront/badge.svg?branch=master)
+![Push to S3 and Invalidate CloudFront](https://github.com/lucascantor/nathanielsigal.com/workflows/Push%20to%20S3%20and%20Invalidate%20CloudFront/badge.svg?branch=master)
 
 ## Contributing Workflow
 
